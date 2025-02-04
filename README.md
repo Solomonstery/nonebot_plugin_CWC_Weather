@@ -1,0 +1,2 @@
+# nonebot_plugin_cwc_weather
+基于CWC所提供的api所制作的一个简易的NoneBot2天气查询插件
