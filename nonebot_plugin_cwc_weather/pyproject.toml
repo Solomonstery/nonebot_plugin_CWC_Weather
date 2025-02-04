@@ -1,0 +1,9 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nonebot_plugin_cwc_weather"
+version = "0.1.0"
+description = "A NoneBot weather plugin"
+dependencies = ["nonebot2>=2.0.0", "nonebot-adapter-onebot>=2.0.0"]
